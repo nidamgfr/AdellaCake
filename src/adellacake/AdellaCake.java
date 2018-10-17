@@ -126,6 +126,10 @@ public class AdellaCake extends JFrame {
    
     public static void main(String[] args) {
         
+        AdellaCake ac = new AdellaCake ();
+            ac.KomponenVisual();
+            ac.AksiReaksi();
+        
            
     }
     
